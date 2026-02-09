@@ -1,0 +1,102 @@
+,PRODUCT BACKLOG - VibeUp,,,,,,,,,,
+,,,,,,,,,,,
+,ID,En tant que...,Je veux...,Afin de...,PRIORITY,Jalon,STATUS,,STATUS,PRIORITY,jalon
+,US-1,organisation,créer un plan de qualité (Quality Plan),"définir :
+- quels processus de développement seront utilisés
+- quels outils de configuration seront utilisés
+- comment sera testée l'application
+- comment seront gérés les tickets
+- comment seront gérés les livrables",High,1,In Progress,,Not Started,High,1 - 06-05-2026
+,US-2,organisation,définir les exigences logicielles (Software Functional Requirement),définir chaque fonctionnalités attendues et les exigences auxquelles répondre pour les considérer conformes,High,1,In Progress,,In Progress,Medium,2 - 29-06-2026
+,US-3,organisation,créer un PBS,avoir une vision des différentes fonctionnalités de l'application,High,1,Complete,,Complete,Low,
+,US-4,organisation,créer un WBS,"avoir une vision des différentes tâches pour réaliser les fonctionnalités, plus découpées",High,1,In Progress,,Overdue,,
+,US-5,organisation,créer un OBS,avoir un vision des résponsabilités des chaque membres de l'équipe,High,1,Complete,,On Hold,,
+,US-6,organisation,"établir les ""Definition of Done""","s'assurer et s'accorder sur ce qui doit être fait pour considérer une tâche, fonctionnalité, user story, finie.",High,1,In Progress,,,,
+,US-7,organisation,définir les besoins materiels (Hardware Requirements),anticiper nos besoins et nos coûts,High,1,In Progress,,,,
+,US-8,organisation,établir un cahier des charges fonctionnel (Software Functional Description),avoir une vision claire des attendus et de comment les réaliser,High,1,In Progress,,,,
+,US-9,organisation,créer une matrice de risque,anticiper des risques potentiels et atténuer leurs impact à défaut de les éviter,High,1,Not Started,,,,
+,US-10,développeur,me renseigner/me former sur les technologies choisies pour le projet,pouvoir commencer efficacement le développement,High,1,In Progress,,,,
+,US-11,développeur,"créer un algorithme de suggestion sur 4 bases :
+- découverte localisée : prioriser des établissements que l'utilisateur n'a pas encore visité
+- basé sur les interactions passées de l'utilisateur
+- priorisation locale : priorise les évènements à proximité mais peut en suggérer des distants
+- basé sur des comptes similaires : suggère des évènement selon ce à quoi des comptes similaires (en interaction et évènements participés) ont pu intéragir",suggérer des évènements les plus susceptible d'intéresser les utilisateurs,High,4,Not Started,,,,
+,US-12,développeur,créer une documentation spécifique pour l'algorithme de suggestion,faciliter l'évolution et l'implémentation de l'algorithme,High,4,Not Started,,,,
+,US-13,utilisateur,accèder à un feed sous forme de carousel, voir des évènements,High,2,Not Started,,,,
+,US-14,utilisateur,accèder à un feed reservé aux promoteurs suivis,voire rapidement des évènements d'établissements qui m'interessent,High,3,Not Started,,,,
+,US-15,utilisateur,accèder à un feed montrant les évènements autour de moi,découvrir des évènements à proximité sans soucis de mes préfèrences,High,2,Not Started,,,,
+,US-16,utilisateur,accèder à un feed me suggérant des évènements selon mes préférences et interactions passées,découvrir des évènements et promoteurs qui pourraient coller à mes goûts,High,4,Not Started,,,,
+,US-17,utilisateur,voir des stories de mes établissements et comptes suivis,"consulter les infos et évènements ""éphémères"" des promoteurs",Low,,Not Started,,,,
+,US-18,utilisateur,accèder à une map, voir des évènements,High,2,Not Started,,,,
+,US-19,utilisateur,pouvoir voir les établissements sur la map,trouver les établissement dans une zone géographique,High,3,Not Started,,,,
+,US-20,utilisateur,pouvoir voir les évènements sur la map,trouver les évènement dans une zone géographique,High,2,Not Started,,,,
+,US-21,utilisateur,être rédirigé vers une map externe pour la création d'un itinéraire,facilement voir le temps et le chemin pour me rendre à l'évènement,Medium,,Not Started,,,,
+,US-22,utilisateur,"filtrer les évènements selon une ""vibe""",trouver des évènements qui correspondent à mon envie,High,3,Not Started,,,,
+,US-23,utilisateur,"voir facilement quelle ""vibe"" a un évènement via un code couleur",repérer facilement ce qui m'intéresse,High,3,Not Started,,,,
+,US-24,utilisateur,liker un évènement,témoigner mon intérêt pour cet évènement,Medium,,Not Started,,,,
+,US-25,utilisateur,commenter un évènement,échanger avec les autres utilisateurs ou le promoteur de l'évènement,Low,,Not Started,,,,
+,US-26,utilisateur,partager un évènement,faire découvrir un évènement à des connaissances,Medium,,Not Started,,,,
+,US-27,utilisateur,sauvegarder un évènement,retrouver facilement un évènement,Medium,,Not Started,,,,
+,US-28,utilisateur,signifier que je participe à un évènement (bouton),signifier ma participation au promoteur,Medium,,Not Started,,,,
+,US-29,utilisateur,que ma participation soit partageable ou non à mes amis,choisir si je les préviens de cette manière ou non,Medium,,Not Started,,,,
+,US-30,utilisateur,trouver un lien vers le site de l'évènement ou du promoteur,trouver potentiellement plus d'informations,Medium,,Not Started,,,,
+,US-31,utilisateur,m'abonner à un promoteur évènementiel,voir facilement ses évènements futurs,Medium,,Not Started,,,,
+,US-32,utilisateur,me créer un compte et pouvoir m'y connecter,"retrouver mes informations, préférences et évènements",High,3,Not Started,,,,
+,US-33,utilisateur,filtrer selon la distance de moi même les évènements disponibles,trouver des évènements proche de moi,High,4,Not Started,,,,
+,US-34,utilisateur,filtrer selon la distance d'une adresse spécifique les évènements disponibles,trouver des évènements proche de l'adresse,High,4,Not Started,,,,
+,US-35,utilisateur,filtrer selon le prix des évènements,trouver des évènements qui correspondent à mon budget,High,4,Not Started,,,,
+,US-36,utilisateur,filtrer selon la date des évènements,trouver des évènements qui correspondent à mon emploi du temps,High,4,Not Started,,,,
+,US-37,utilisateur,filtrer selon des mots clés,,High,4,Not Started,,,,
+,US-38,utilisateur,voir la description de l'évènement,comprendre le sujet et contenu de l'évènement,High,2,Not Started,,,,
+,US-39,utilisateur,"voir les tags de ""vibe"" de l'évènement",savoir si cela correspond à mon envie,High,3,Not Started,,,,
+,US-40,utilisateur,voir la date de l'évènement,savoir si cela correspond à mon emploi du temps,High,2,Not Started,,,,
+,US-41,utilisateur,voir si des amis ont like l'évènement que je consulte,potentiellement me coordiner avec eux,Low,,Not Started,,,,
+,US-42,utilisateur,voir a quel point un évènement est populaire,savoir s'il est populaire/sold-out/presque sold-out,Low,,Not Started,,,,
+,US-43,utilisateur,voir l'adresse exacte d'un évènement,savoir où il se situe,High,2,Not Started,,,,
+,US-44,utilisateur,voir la distance en km de ma position ou de l'adresse spécifiée,savoir si c'est proche ou loin,Medium,,Not Started,,,,
+,US-45,utilisateur,savoir s'il y a des transports en commun proche et lesquels,organiser mon trajet d'aller et de retour,Medium,,Not Started,,,,
+,US-46,utilisateur,être redirigé vers la map en cliquant sur un bouton,faciliter ma navigation et voir la localisation de l'évènement,High,2,Not Started,,,,
+,US-47,utilisateur,"répondre à un court questionnaire pour définir mes envies, la ""vibe"" que je cherche",faciliter ma recherche et trouver ce dont j'ai envie,Medium,,Not Started,,,,
+,US-48,utilisateur,pouvoir activer ou désactiver les notifications de l'application,avoir le choix selon mes besoins et mes envies du moment,High,5,Not Started,,,,
+,US-49,utilisateur,recevoir différents des notifications pour des évènements sauvegardés,être prévenu rapidement des mises à jours de l'évènement,High,5,Not Started,,,,
+,US-50,utilisateur,recevoir différents des notifications pour des évènements  auxquels j'ai indinqué participer,être prévenu rapidement des mises à jours de l'évènement,Medium,,Not Started,,,,
+,US-51,utilisateur,recevoir différents des notifications pour des mises à jours (nouvelles publications) de comptes suivis,être prévenues rapidement des nouvelles publications et mises à jours de ces comptes,Medium,,Not Started,,,,
+,US-52,promoteur,pouvoir créer un évènement,diffuser l'évènement aux utilisateurs de l'app,High,2,Not Started,,,,
+,US-53,promoteur,pouvoir gérer/modifier un évènement,ajuster les informations de l'évènement,High,2,Not Started,,,,
+,US-54,promoteur,pouvoir programmer la publication d'un évènement dans le futur (publi auto programmée),pouvoir anticiper mes publications et passer moins de temps à gérer mes évènements,Medium,,Not Started,,,,
+,US-55,promoteur,"pouvoir créer des ""stories"" d'évènement","pouvoir communiquer sur un autre format des évènements et informations ""éphémères""",Low,,Not Started,,,,
+,US-56,promoteur,"avoir une page accessible au public regroupant et affichant :
+- Une/des photo(s) de profil, bannières
+- Une description
+- Une ou des adresse(s) de mes établissements
+- heures d'ouvertures
+- historique de mes publications","- avoir une vision sur ce que je présente aux utilisateurs
+- afficher des informations générales et pouvoir les mettre à jour
+- afficher mes publications passées ",High,3,Not Started,,,,
+,US-57,promoteur,gérer plusieurs établissements depuis le même compte,faciliter la gestion et publications de mes évènements,Medium,,Not Started,,,,
+,US-58,promoteur,"avoir accès à des ""metrics"" sur les interactions des utilisateurs avec mes publications et ma page",pouvoir analyser quels types de posts fonctionnent le mieux et l'impact de l'application par rapport à d'autres canaux (réseaux sociaux),Medium,,Not Started,,,,
+,US-59,promoteur,voir des comptes similaires au mien,assurer une veille sur l'activité des établissements similaires,Medium,,Not Started,,,,
+,US-60,promoteur,pouvoir connecter la gestion de ma page et mes publications à un gestionnaire externe et/ou des réseaux sociaux,centraliser et faciliter la diffusion d'évènements,Low,,Not Started,,,,
+,US-61,promoteur,automatiser cette gestion depuis un service externe,centraliser et faciliter la diffusion d'évènements,Low,,Not Started,,,,
+,US-62,super admin,pouvoir gérer les comptes utilisateurs,"résoudre d'éventuels problèmes techniques, supprimer/bannir des comptes",High,3,Not Started,,,,
+,US-63,super admin,pouvoir gérer les comptes promoteurs,"- approuver la création de ces comptes
+- résoudre d'éventuels problèmes techniques, supprimer/bannir des comptes",High,3,Not Started,,,,
+,US-64,super admin,gérer et modérer les contenus/comptes inappropriés,assurer la tranquilité et la bonne ambiance sur l'application,High,4,Not Started,,,,
+,US-65,super admin,"gérer et modérer, supprimer les contenus/comptes de bots","assurer la pertinence des publications et comptes, la stabilité de l'application",High,4,Not Started,,,,
+,US-66,super admin,"avoir accès à des statistiques globales de la plateforme (affluence, interaction, etc...)","- mesurer la pertinence de l'application, 
+- orienter le développement de l'application,
+- adapter les moyens techniques mis à disposition pour la stabilité de l'application",Medium,,Not Started,,,,
+,US-67,super admin,"gérer les tags disponible (d'ambiance, de filtres)","- améliorer la pertinence des évènements proposées
+- en ajouter des nouveaux
+- en supprimer des plus/peu utlisés",High,4,Not Started,,,,
+,US-68,super admin,recevoir des notifications pour les demandes de création de compte des promoteurs,"- ouvrir la demande de comptes promoteurs à toutes les entreprise sans avoir à la gérer dès le départ en direct avec le promoteur
+- être notifié facilement de la demande",Medium,,Not Started,,,,
+,US-69,monétisation,proposer l'achat de tickets pour les évènements directement dans l'application,"- faciliter la gestion d'évènement pour les promoteurs
+- faciliter le processus d'achat pour les utilisateurs
+- monétiser l'application via une comission sur ces achats",Low,5,Not Started,,,,
+,US-70,monétisation,récupérer une comission selon le nombre de tickets achetés par des utilisateurs venant de mon application (liens affiliés),Monétiser l'application via une comission sur ces achats,Low,5,Not Started,,,,
+,US-71,monétisation,Proposer des partenariats pour des évènements,monétiser l'application et mettre en avant des évènements qui nous semblent importants,Low,5,Not Started,,,,
+,US-72,monétisation,"Proposer des ""posts sponsorisés"" (qui seront affichés comme tel et montrés à TOUT les utilisateurs)",monétiser l'application,Low,5,Not Started,,,,
+,US-73,monétisation,Proposer de mettre en avant des posts/évènements contre rémunération (qui seront montrer à un pourcentage plus important d'utilisateurs selon le tarif choisi),monétiser l'application,Low,5,Not Started,,,,
+,US-74,,,,,,,,,,
+,US-75,,,,,,,,,,
