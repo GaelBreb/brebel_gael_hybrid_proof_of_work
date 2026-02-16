@@ -1,0 +1,3 @@
+Prefix,Status,Children,VRF,Utilization,Tenant,Scope,VLAN,Role,Description,ID,Prefix (Flat),Tenant Group,Scope Type,VLAN Group,Pool,Marked Utilized,Contacts,Comments,Tags,Created,Last updated,Owner,Depth
+10.1.0.0/16,Active,0,Global,0.0%,,S1,,,,1,10.1.0.0/16,,dcim.site,,True,False,,,,2026-02-16T13:43:25.940057+00:00,2026-02-16T13:53:33.910446+00:00,,0
+10.2.0.0/16,Active,0,Global,0.0%,,S2,,,,2,10.2.0.0/16,,dcim.site,,True,False,,,,2026-02-16T13:45:37.660053+00:00,2026-02-16T13:53:40.774510+00:00,,0

@@ -1,0 +1,7 @@
+Start address,End address,Size,VRF,Status,Role,Tenant,Description,ID,Tenant Group,Marked Populated,Marked Utilized,Utilization,Contacts,Comments,Tags,Created,Last updated,Owner
+10.1.1.1/24,10.1.1.254/24,254,Global,Active,s1-admin,,,1,,False,False,0.0%,,,,2026-02-16T13:58:19.227011+00:00,2026-02-16T14:23:00.203723+00:00,
+10.1.2.1/24,10.1.2.254/24,254,Global,Active,s1-users,,,2,,False,False,0.0%,,,,2026-02-16T13:58:46.393658+00:00,2026-02-16T14:22:43.152826+00:00,
+10.1.3.1/24,10.1.3.254/24,254,Global,Active,s1-external,,,3,,False,False,0.0%,,,,2026-02-16T14:04:14.371993+00:00,2026-02-16T14:23:15.194136+00:00,
+10.2.1.1/24,10.2.1.254/24,254,Global,Active,s2-admin,,,4,,False,False,0.0%,,,,2026-02-16T14:05:01.806505+00:00,2026-02-16T14:23:28.132174+00:00,
+10.2.2.1/24,10.2.2.254/24,254,Global,Active,s2-users,,,5,,False,False,0.0%,,,,2026-02-16T14:05:31.558681+00:00,2026-02-16T14:23:39.668331+00:00,
+10.2.3.1/24,10.2.3.254/24,254,Global,Active,s2-external,,,6,,False,False,0.0%,,,,2026-02-16T14:06:42.172084+00:00,2026-02-16T14:23:52.500477+00:00,

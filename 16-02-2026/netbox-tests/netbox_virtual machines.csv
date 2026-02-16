@@ -1,0 +1,7 @@
+Name,Status,Site,Cluster,Role,Tenant,VCPUs,Memory (MB),Disk,IP Address,ID,Start on boot,Device,Tenant Group,IPv4 Address,IPv6 Address,Description,Comments,Config Template,Serial number,Contacts,Tags,Created,Last updated,Owner,Platform,Interfaces,Virtual Disks
+s1-admin-01,Active,S1,cluster site 1,None,,,,100 MB,,1,Last State,,,,,,,,,,,2026-01-26T13:09:04.466243+00:00,2026-02-16T14:07:05.584798+00:00,,,1,1
+s1-external-01,Active,S1,cluster site 1,None,,,,100 MB,,3,Last State,,,,,,,,,,,2026-01-26T13:24:53.077514+00:00,2026-02-16T13:33:06.906639+00:00,,,1,0
+s1-users-01,Active,S1,cluster site 1,None,,,,100 MB,,2,Last State,,,,,,,,,,,2026-01-26T13:19:28.419588+00:00,2026-02-16T13:32:41.961502+00:00,,,1,0
+s2-admin-01,Active,S2,cluster site 2,None,,,,100 MB,,4,Last State,,,,,,,,,,,2026-01-26T13:33:56.239765+00:00,2026-02-16T13:31:56.826505+00:00,,,1,0
+s2-external-01,Active,S2,cluster site 2,None,,,,100 MB,,6,Last State,,,,,,,,,,,2026-01-26T13:34:18.051904+00:00,2026-02-16T13:32:55.242680+00:00,,,1,0
+s2-users-01,Active,S2,cluster site 2,None,,,,100 MB,,5,Last State,,,,,,,,,,,2026-01-26T13:34:06.679124+00:00,2026-02-16T13:32:29.247972+00:00,,,1,0

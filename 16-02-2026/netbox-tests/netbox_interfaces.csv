@@ -1,0 +1,7 @@
+Name,Virtual Machine,Enabled,Description,ID,MTU,Mode,Tags,VRF,MAC Address,L2VPN,Tunnel,IP Addresses,FHRP Groups,Untagged VLAN,Tagged VLANs,Q-in-Q SVLAN,Created,Last updated,VLAN Translation Policy
+s1-admin-eth0,s1-admin-01,True,,1,,,,,,,,,,,,,2026-01-26T13:10:19.463314+00:00,2026-02-16T14:19:41.336647+00:00,
+s1-external-eth0,s1-external-01,True,,2,,,,,,,,,,,,,2026-02-16T15:09:14.226450+00:00,2026-02-16T15:09:14.226461+00:00,
+s1-users-eth0,s1-users-01,True,,3,,,,,,,,,,,,,2026-02-16T15:09:37.078797+00:00,2026-02-16T15:09:37.078808+00:00,
+s2-admin-eth0,s2-admin-01,True,,4,,,,,,,,,,,,,2026-02-16T15:09:47.228803+00:00,2026-02-16T15:09:47.228815+00:00,
+s2-external-eth0,s2-external-01,True,,6,,,,,,,,,,,,,2026-02-16T15:10:15.154320+00:00,2026-02-16T15:10:15.154331+00:00,
+s2-users-eth0,s2-users-01,True,,5,,,,,,,,,,,,,2026-02-16T15:10:02.803275+00:00,2026-02-16T15:10:02.803288+00:00,

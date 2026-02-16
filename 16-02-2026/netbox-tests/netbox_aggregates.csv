@@ -1,0 +1,2 @@
+Aggregate,RIR,Tenant,Prefixes,Utilization,Added,Description,ID,Tenant Group,Contacts,Comments,Tags,Created,Last updated,Owner
+10.0.0.0/8,RFC 1918,,2,0.78125%,2026-02-16,general aggregates,1,,,,,2026-02-16T13:40:29.521858+00:00,2026-02-16T13:40:29.521868+00:00,

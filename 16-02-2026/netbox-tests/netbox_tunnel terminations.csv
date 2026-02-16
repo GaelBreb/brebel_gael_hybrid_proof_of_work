@@ -1,0 +1,5 @@
+ID,Tunnel,Role,Host,Tunnel interface,IP Addresses,Outside IP,Tags,Created,Last updated
+1,VPN-ADMIN-S1-S2,Peer,s1-admin-01,s1-admin-eth0,,,,2026-02-16T15:35:33.893713+00:00,2026-02-16T15:41:40.220007+00:00
+2,VPN-ADMIN-S1-S2,Peer,s2-admin-01,s2-admin-eth0,,,,2026-02-16T15:35:33.909294+00:00,2026-02-16T15:41:51.764422+00:00
+6,VPN-USERS-S1-S2,Peer,s1-external-01,s1-external-eth0,,,,2026-02-16T15:42:55.119469+00:00,2026-02-16T15:42:55.119480+00:00
+7,VPN-USERS-S1-S2,Peer,s2-external-01,s2-external-eth0,,,,2026-02-16T15:42:55.133326+00:00,2026-02-16T15:42:55.133339+00:00
