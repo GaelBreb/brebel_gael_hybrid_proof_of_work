@@ -1,0 +1,2 @@
+Mise à jour (en cours) du product [backlog](T-ESP_Product-backlog_V1.1(3).xlsx) et du [cahier des charges](CDC%20V0.2%20-%20Cahier%20des%20charges.docx.pdf), [sprint review](./SR3%20-%20Sprint%20review%2028-04-2026.docx) et [planning](SP4%20-%20Sprint%20planning%2028-04-2026.docx) avec l'équipe.
+Réévaluation de la distribution des US dans les différents jalons.
